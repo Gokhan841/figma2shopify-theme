@@ -3,7 +3,8 @@ Modern ve sade kullanıcı arayüzüne sahip, mobil uyumlu bir Shopify temasıd�
 ## 🔧 Kullanılan Teknolojiler / Technologies Used
 
 - HTML5 & CSS3  
-- Tailwind CSS  
+- Tailwind CSS
+- Vanilla JavaScript (Saf JS)  
 - Responsive Design  
 - Figma (Tasarım Kaynağı)
 
